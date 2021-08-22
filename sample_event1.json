@@ -1,0 +1,18 @@
+{
+    "Action": "Create",
+    "Type": "Hypothesis",
+    "FromStateAt": 0,
+    "By": "mhdwyer",
+    "Because": "its fun",
+    "Data": {
+        "Title": "Some people could see themselves using an app that helped them track hypotheses as part of a decision/analysis process"
+    },
+    "MetaData": {
+        "Keywords": [
+            "hypothesis",
+            "decision",
+            "analysis",
+            "track"
+        ]
+    }
+}
